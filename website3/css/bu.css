@@ -1,0 +1,13 @@
+/* a {
+    color: rgb(250, 245, 245); background-color:#cb2c2c;
+    text-align: center;font-weight: bold;
+    width:110px; height:25px;
+    padding: 40px; text-decoration:none;
+    font-size-adjust: calc(20px);
+    }
+    
+    .abc:hover {
+    background-color: lightblue;
+    -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px;
+    
+    } */
