@@ -1,0 +1,62 @@
+
+.one{
+    font-weight: 100%;
+}
+.nav1{
+    margin-left: 63.5%;
+} 
+img.img1{
+   width: 100%;
+}
+.new{
+    background-color: black;
+}
+h4.new1{
+color: rgb(192, 103, 39);
+}
+h5.heading{
+    color: aliceblue;
+}
+p.paragraph{
+color: rgb(168, 177, 177);
+}
+.mar1{
+   border-top:1px solid aliceblue ;
+
+}
+.mar2{
+    border-top:1px solid aliceblue ;
+    
+ }
+h2.number{
+    color:gainsboro ;
+}
+
+button:hover{
+    background-color: rgb(11, 8, 3); 
+   
+}
+.heading:hover{
+    color: chocolate;
+}
+
+button{
+    background-color: rgb(196, 68, 17);
+    color: aliceblue;
+    border: none;
+    padding:10px 50px 10px 50px ;
+ 
+}
+.nav2 a{
+    color: black;
+    
+}
+.nav2 a:hover{
+    color: brown;
+}
+.nav1{
+    color: black;
+}
+/* .second-imgs img{
+    width: 100%;
+} */
