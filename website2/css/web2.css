@@ -1,0 +1,213 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+header{
+    background-image: url(../img/image-header.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 105vh;
+}
+.nav1{
+    margin-left: 68.5%;
+} 
+.nav2 a{
+    color: rgb(247, 241, 241);
+    font-weight: 900;
+}
+.Sunnyside{
+    color: rgb(243, 248, 248);
+    margin-top: 5px;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+.paragraph1{
+    margin-left:35%;
+    color: aliceblue;
+    margin-top: 15%;
+    font-family: Fraunces, serif;
+    font-weight: 900;
+    letter-spacing: 6px;
+    font-size: 56px;
+}
+img.img1{
+    margin-left:50%;
+    margin-top: 19px;
+ }
+ img.img2{
+    width: 100%;
+ }
+ .content1{
+   padding-bottom:50px;
+   padding-left: 25%;
+   padding-right: 25%;
+   padding-top: 300px;
+ }
+ button{
+    background-color: rgb(196, 68, 17);
+    color: rgb(7, 7, 8);
+    border: none;
+    padding:10px 50px 10px 50px ;
+} 
+img.img3{
+    width: 100%;
+ }
+.heading1{
+    letter-spacing: 1px; 
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+}
+.paragraph2{
+    background-image: url(../img/image-graphic-design.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+}
+.paragraph3{
+    background-image: url(../img/image-photography.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+}
+.part1{
+    padding-top: 60%;
+    padding-bottom: 2px;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: rgb(10, 82, 58);
+}
+.part2{
+     letter-spacing: 1px; 
+    padding-left: 25%;
+    padding-right: 27%; 
+    color: rgb(10, 82, 58);
+}
+.part3{
+    padding-top: 60%;
+    padding-bottom: 2px;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: rgb(10, 82, 58);   
+}
+.part4{
+    padding-left: 28%;
+    letter-spacing: 1px;
+    padding-right: 28%; 
+    color: rgb(10, 82, 58);
+}
+img.img4{
+        border-radius: 50%;    
+}
+.head{
+    color: rgb(97, 97, 97);
+line-height: 1.5;
+font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 10%;
+}
+ .first{
+        color: rgb(162, 157, 157);
+        margin-left: 42%;
+        margin-bottom:4%;
+}
+.hea{
+        max-width: 700px;
+        margin: 20px auto;
+        text-align: center;
+        line-height: 1.6;
+        font-size: 16px;
+    padding-left: 1%;
+    padding-right: 10%;
+    }
+.pa{
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 16px;
+}
+.ho:hover{
+    color: aliceblue;
+    }
+footer{
+    background-color: aquamarine;
+    padding: 10%;
+}
+section{
+    text-align: center;
+    color: rgb(56, 116, 96);
+    font-size: xx-large;
+}
+a.page :hover{
+   color: aliceblue;
+   background-color:skyblue;
+}
+.page1{
+    padding: 14px 25px;
+    border-radius: 35px;
+    background-color: aliceblue;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 1000;
+}
+.p3{
+    font-weight: 200;
+}
+.head1{
+    padding-left: 10%;
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 16px;
+padding-right: 10%;
+}
+img.img9{
+    border-radius: 50%;
+}
+h3{
+    color: black;
+}
+.head2{
+    padding-left:5%;
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 16px;
+padding-right: 10%;
+}
+.about a{
+    text-decoration: none;
+   font-size: 20px;
+   color: rgb(3, 68, 46);
+}
+.demo>[class*='col-']
+{
+    padding-right: 0;
+    padding-left: 0;
+}
+.hover-2 {
+    background: 
+      linear-gradient(#1095c1 0 0) no-repeat
+       calc(200% - var(--p,0%)) 100% / 200% var(--p,.08em);
+    transition: .3s var(--t,0s), background-position .3s calc(.3s - var(--t,0s));
+  }
+  .hover-2:hover {
+    --p: 100%;
+    --t: .3s;
+    color: #fff;
+  } 
+.user-content p{
+    margin-top:5px;
+    font-size:12px;
+}
+p.clients1{
+    color: rgb(97, 97, 97);
+line-height: 1.5;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;    
+}
